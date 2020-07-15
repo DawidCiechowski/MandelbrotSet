@@ -21,7 +21,7 @@ A Mandelbrot Set created using Processing IDE, and Processing framework Java.
 <a name="how"></a>
 ## How to use
 
-- Downloading Processing onto your system.
+- Download Processing onto your system.
 - Fork this repository into the directory on your system.
 - Open the project within Processing and run.
 
